@@ -68,11 +68,11 @@
 
 /*carousel的右邊箭頭*/
 .carousel-control-next-icon {
-  background-image: url(./img/right_arrow.svg);
+  background-image: url(../../img/right_arrow.svg);
 }
 
 .carousel-control-prev-icon {
-  background-image: url(./img/left_arrow.svg);
+  background-image: url(../../img/left_arrow.svg);
 }
 
 /*round dots underneath*/
