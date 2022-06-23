@@ -1,0 +1,51 @@
+body{
+    margin:0px;
+}
+
+.footer img{
+    top:0px;
+    left:0px;
+    margin:0px;
+    width:100%;
+    height:auto;
+    z-index:-1;
+}
+
+.social-media p{
+    font-weight: 700;
+    position:absolute;
+    left:70%;
+    top:80px;
+}
+
+.social-media ul{
+    position:absolute;
+    left:70%;
+    top:110px;
+    padding:0px;
+    z-index: 999;
+}
+.social-media ul li{
+    display: inline-block;
+    text-decoration: none;
+}
+
+.social-media ul li button{
+    border:0px;
+    border-radius:70px;
+    padding-right:10px;
+    margin:0px;
+    background-color: rgba(0,0,0,0);
+}
+
+.social-media ul li button img{
+    width:70px;
+    height:auto;
+    z-index: 999;
+}
+
+.social-media ul li button img:hover{
+    transform: scale(110%);
+    transition: ease 0.2s
+   
+}
